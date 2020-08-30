@@ -1,0 +1,2 @@
+# Corona_Map
+This Repository is just made to open my Hands in the field of how to Fetch data , in simple words say how to use The fetch API , on making this map i had learnt how to fetch data , learnt how it returns promises and came to know about the mapbox. In this Repo I just fetch a pre-downloaded json file and practice on in it how to fetch it and many more .This Corona Virus rapidly increasing day-by-day so keeping this in mind i had found the json file of early stages ,so just to practice and learn how we can fetch data I had used that json file here .
